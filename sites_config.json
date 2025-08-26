@@ -1,0 +1,10 @@
+{
+    "realpython": {
+      "url": "https://realpython.com/tutorials/all/",
+      "item_selector": ".card",
+      "name_selector": ".card-title",
+      "desc_selector": ".card-text",
+      "url_selector": "a"
+    }
+  }
+  

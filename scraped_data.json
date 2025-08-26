@@ -1,0 +1,8039 @@
+[
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "abilities",
+    "url": "https://quotes.toscrape.com/tag/abilities/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "choices",
+    "url": "https://quotes.toscrape.com/tag/choices/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "be-yourself",
+    "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "adulthood",
+    "url": "https://quotes.toscrape.com/tag/adulthood/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "success",
+    "url": "https://quotes.toscrape.com/tag/success/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "value",
+    "url": "https://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Andre-Gide"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Eleanor-Roosevelt"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-eleanor-roosevelt",
+    "url": "https://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:classic",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:paraphrased",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mother-Teresa"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-to-mother-teresa",
+    "url": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:friends",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "courage",
+    "url": "https://quotes.toscrape.com/tag/courage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Ernest-Hemingway"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "novelist-quotes",
+    "url": "https://quotes.toscrape.com/tag/novelist-quotes/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:friendship",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-love",
+    "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "unhappy-marriage",
+    "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Bob-Marley"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Alfred-Tennyson"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:miracle",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "courage",
+    "url": "https://quotes.toscrape.com/tag/courage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "simplicity",
+    "url": "https://quotes.toscrape.com/tag/simplicity/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "understand",
+    "url": "https://quotes.toscrape.com/tag/understand/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Bob-Marley"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Dr-Seuss"
+  },
+  {
+    "type": "link",
+    "title": "fantasy",
+    "url": "https://quotes.toscrape.com/tag/fantasy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Douglas-Adams"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "navigation",
+    "url": "https://quotes.toscrape.com/tag/navigation/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Elie-Wiesel"
+  },
+  {
+    "type": "link",
+    "title": "activism",
+    "url": "https://quotes.toscrape.com/tag/activism/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "apathy",
+    "url": "https://quotes.toscrape.com/tag/apathy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "hate",
+    "url": "https://quotes.toscrape.com/tag/hate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "indifference",
+    "url": "https://quotes.toscrape.com/tag/indifference/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "opposite",
+    "url": "https://quotes.toscrape.com/tag/opposite/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-love",
+    "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "unhappy-marriage",
+    "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Allen-Saunders"
+  },
+  {
+    "type": "link",
+    "title": "fate",
+    "url": "https://quotes.toscrape.com/tag/fate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-john-lennon",
+    "url": "https://quotes.toscrape.com/tag/misattributed-john-lennon/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "planning",
+    "url": "https://quotes.toscrape.com/tag/planning/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "plans",
+    "url": "https://quotes.toscrape.com/tag/plans/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "\u2190Previous",
+    "url": "https://quotes.toscrape.com/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/page/3/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:change",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:edison",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:reading",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Dr-Seuss"
+  },
+  {
+    "type": "link",
+    "title": "learning",
+    "url": "https://quotes.toscrape.com/tag/learning/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "seuss",
+    "url": "https://quotes.toscrape.com/tag/seuss/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/William-Nicholson"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-to-c-s-lewis",
+    "url": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-R-R-Martin"
+  },
+  {
+    "type": "link",
+    "title": "read",
+    "url": "https://quotes.toscrape.com/tag/read/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "readers",
+    "url": "https://quotes.toscrape.com/tag/readers/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading-books",
+    "url": "https://quotes.toscrape.com/tag/reading-books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/C-S-Lewis"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "tea",
+    "url": "https://quotes.toscrape.com/tag/tea/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-D-Salinger"
+  },
+  {
+    "type": "link",
+    "title": "authors",
+    "url": "https://quotes.toscrape.com/tag/authors/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "literature",
+    "url": "https://quotes.toscrape.com/tag/literature/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writing",
+    "url": "https://quotes.toscrape.com/tag/writing/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "library",
+    "url": "https://quotes.toscrape.com/tag/library/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Albert Einstein",
+    "description": "Born:March 14, 1879in Ulm, Germany",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:success",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "success",
+    "url": "https://quotes.toscrape.com/tag/success/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "adulthood",
+    "url": "https://quotes.toscrape.com/tag/adulthood/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "success",
+    "url": "https://quotes.toscrape.com/tag/success/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "value",
+    "url": "https://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:choices",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "choices",
+    "url": "https://quotes.toscrape.com/tag/choices/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "abilities",
+    "url": "https://quotes.toscrape.com/tag/abilities/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "choices",
+    "url": "https://quotes.toscrape.com/tag/choices/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Thomas A. Edison",
+    "description": "Born:February 11, 1847in Milan, Ohio, The United States",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Jane Austen",
+    "description": "Born:December 16, 1775in Steventon Rectory, Hampshire, The United Kingdom",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Andr\u00e9 Gide",
+    "description": "Born:November 22, 1869in Paris, France",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:world",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:aliteracy",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:books",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jorge-Luis-Borges"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "library",
+    "url": "https://quotes.toscrape.com/tag/library/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/C-S-Lewis"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "tea",
+    "url": "https://quotes.toscrape.com/tag/tea/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Haruki-Murakami"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thought",
+    "url": "https://quotes.toscrape.com/tag/thought/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Ernest-Hemingway"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "novelist-quotes",
+    "url": "https://quotes.toscrape.com/tag/novelist-quotes/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-D-Salinger"
+  },
+  {
+    "type": "link",
+    "title": "authors",
+    "url": "https://quotes.toscrape.com/tag/authors/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "literature",
+    "url": "https://quotes.toscrape.com/tag/literature/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writing",
+    "url": "https://quotes.toscrape.com/tag/writing/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "library",
+    "url": "https://quotes.toscrape.com/tag/library/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Madeleine-LEngle"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "children",
+    "url": "https://quotes.toscrape.com/tag/children/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "difficult",
+    "url": "https://quotes.toscrape.com/tag/difficult/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "grown-ups",
+    "url": "https://quotes.toscrape.com/tag/grown-ups/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "write",
+    "url": "https://quotes.toscrape.com/tag/write/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writers",
+    "url": "https://quotes.toscrape.com/tag/writers/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writing",
+    "url": "https://quotes.toscrape.com/tag/writing/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/books/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:adulthood",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "adulthood",
+    "url": "https://quotes.toscrape.com/tag/adulthood/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "adulthood",
+    "url": "https://quotes.toscrape.com/tag/adulthood/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "success",
+    "url": "https://quotes.toscrape.com/tag/success/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "value",
+    "url": "https://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:humor",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Garrison-Keillor"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "religion",
+    "url": "https://quotes.toscrape.com/tag/religion/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jim-Henson"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Charles-M-Schulz"
+  },
+  {
+    "type": "link",
+    "title": "chocolate",
+    "url": "https://quotes.toscrape.com/tag/chocolate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "food",
+    "url": "https://quotes.toscrape.com/tag/food/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Suzanne-Collins"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Charles-Bukowski"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Terry-Pratchett"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "open-mind",
+    "url": "https://quotes.toscrape.com/tag/open-mind/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Dr-Seuss"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Carlin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "insanity",
+    "url": "https://quotes.toscrape.com/tag/insanity/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lies",
+    "url": "https://quotes.toscrape.com/tag/lies/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lying",
+    "url": "https://quotes.toscrape.com/tag/lying/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "self-indulgence",
+    "url": "https://quotes.toscrape.com/tag/self-indulgence/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/humor/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:be-yourself",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "be-yourself",
+    "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "be-yourself",
+    "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:abilities",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "abilities",
+    "url": "https://quotes.toscrape.com/tag/abilities/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "abilities",
+    "url": "https://quotes.toscrape.com/tag/abilities/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "choices",
+    "url": "https://quotes.toscrape.com/tag/choices/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Steve Martin",
+    "description": "Born:August 14, 1945in Waco, Texas, The United States",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:humor",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Garrison-Keillor"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "religion",
+    "url": "https://quotes.toscrape.com/tag/religion/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jim-Henson"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Charles-M-Schulz"
+  },
+  {
+    "type": "link",
+    "title": "chocolate",
+    "url": "https://quotes.toscrape.com/tag/chocolate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "food",
+    "url": "https://quotes.toscrape.com/tag/food/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Suzanne-Collins"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Charles-Bukowski"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Terry-Pratchett"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "open-mind",
+    "url": "https://quotes.toscrape.com/tag/open-mind/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Dr-Seuss"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Carlin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "insanity",
+    "url": "https://quotes.toscrape.com/tag/insanity/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lies",
+    "url": "https://quotes.toscrape.com/tag/lies/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lying",
+    "url": "https://quotes.toscrape.com/tag/lying/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "self-indulgence",
+    "url": "https://quotes.toscrape.com/tag/self-indulgence/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/humor/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:life",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Andre-Gide"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Douglas-Adams"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "navigation",
+    "url": "https://quotes.toscrape.com/tag/navigation/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Allen-Saunders"
+  },
+  {
+    "type": "link",
+    "title": "fate",
+    "url": "https://quotes.toscrape.com/tag/fate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-john-lennon",
+    "url": "https://quotes.toscrape.com/tag/misattributed-john-lennon/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "planning",
+    "url": "https://quotes.toscrape.com/tag/planning/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "plans",
+    "url": "https://quotes.toscrape.com/tag/plans/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Dr-Seuss"
+  },
+  {
+    "type": "link",
+    "title": "comedy",
+    "url": "https://quotes.toscrape.com/tag/comedy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "yourself",
+    "url": "https://quotes.toscrape.com/tag/yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Bernard-Shaw"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "yourself",
+    "url": "https://quotes.toscrape.com/tag/yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Ralph-Waldo-Emerson"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "regrets",
+    "url": "https://quotes.toscrape.com/tag/regrets/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/life/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:simile",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Stephenie-Meyer"
+  },
+  {
+    "type": "link",
+    "title": "drug",
+    "url": "https://quotes.toscrape.com/tag/drug/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "romance",
+    "url": "https://quotes.toscrape.com/tag/romance/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:thinking",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Terry-Pratchett"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "open-mind",
+    "url": "https://quotes.toscrape.com/tag/open-mind/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:deep-thoughts",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:truth",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Carlin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "insanity",
+    "url": "https://quotes.toscrape.com/tag/insanity/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lies",
+    "url": "https://quotes.toscrape.com/tag/lies/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lying",
+    "url": "https://quotes.toscrape.com/tag/lying/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "self-indulgence",
+    "url": "https://quotes.toscrape.com/tag/self-indulgence/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-mark-twain",
+    "url": "https://quotes.toscrape.com/tag/misattributed-mark-twain/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:obvious",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:books",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jorge-Luis-Borges"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "library",
+    "url": "https://quotes.toscrape.com/tag/library/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/C-S-Lewis"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "tea",
+    "url": "https://quotes.toscrape.com/tag/tea/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Haruki-Murakami"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thought",
+    "url": "https://quotes.toscrape.com/tag/thought/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Ernest-Hemingway"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "novelist-quotes",
+    "url": "https://quotes.toscrape.com/tag/novelist-quotes/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-D-Salinger"
+  },
+  {
+    "type": "link",
+    "title": "authors",
+    "url": "https://quotes.toscrape.com/tag/authors/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "literature",
+    "url": "https://quotes.toscrape.com/tag/literature/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writing",
+    "url": "https://quotes.toscrape.com/tag/writing/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "library",
+    "url": "https://quotes.toscrape.com/tag/library/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Madeleine-LEngle"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "children",
+    "url": "https://quotes.toscrape.com/tag/children/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "difficult",
+    "url": "https://quotes.toscrape.com/tag/difficult/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "grown-ups",
+    "url": "https://quotes.toscrape.com/tag/grown-ups/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "write",
+    "url": "https://quotes.toscrape.com/tag/write/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writers",
+    "url": "https://quotes.toscrape.com/tag/writers/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "writing",
+    "url": "https://quotes.toscrape.com/tag/writing/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/books/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "change",
+    "url": "https://quotes.toscrape.com/tag/change/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "deep-thoughts",
+    "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "thinking",
+    "url": "https://quotes.toscrape.com/tag/thinking/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "world",
+    "url": "https://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "abilities",
+    "url": "https://quotes.toscrape.com/tag/abilities/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "choices",
+    "url": "https://quotes.toscrape.com/tag/choices/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "aliteracy",
+    "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "classic",
+    "url": "https://quotes.toscrape.com/tag/classic/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "be-yourself",
+    "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "adulthood",
+    "url": "https://quotes.toscrape.com/tag/adulthood/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "success",
+    "url": "https://quotes.toscrape.com/tag/success/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "value",
+    "url": "https://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Andre-Gide"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Eleanor-Roosevelt"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-eleanor-roosevelt",
+    "url": "https://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Marilyn Monroe",
+    "description": "Born:June 01, 1926in The United States",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:love",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Andre-Gide"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Bob-Marley"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Elie-Wiesel"
+  },
+  {
+    "type": "link",
+    "title": "activism",
+    "url": "https://quotes.toscrape.com/tag/activism/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "apathy",
+    "url": "https://quotes.toscrape.com/tag/apathy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "hate",
+    "url": "https://quotes.toscrape.com/tag/hate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "indifference",
+    "url": "https://quotes.toscrape.com/tag/indifference/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "opposite",
+    "url": "https://quotes.toscrape.com/tag/opposite/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-love",
+    "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "unhappy-marriage",
+    "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Pablo-Neruda"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "poetry",
+    "url": "https://quotes.toscrape.com/tag/poetry/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "girls",
+    "url": "https://quotes.toscrape.com/tag/girls/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/James-Baldwin"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/love/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:life",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Andre-Gide"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Douglas-Adams"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "navigation",
+    "url": "https://quotes.toscrape.com/tag/navigation/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Mark-Twain"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "contentment",
+    "url": "https://quotes.toscrape.com/tag/contentment/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Allen-Saunders"
+  },
+  {
+    "type": "link",
+    "title": "fate",
+    "url": "https://quotes.toscrape.com/tag/fate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-john-lennon",
+    "url": "https://quotes.toscrape.com/tag/misattributed-john-lennon/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "planning",
+    "url": "https://quotes.toscrape.com/tag/planning/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "plans",
+    "url": "https://quotes.toscrape.com/tag/plans/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Dr-Seuss"
+  },
+  {
+    "type": "link",
+    "title": "comedy",
+    "url": "https://quotes.toscrape.com/tag/comedy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "yourself",
+    "url": "https://quotes.toscrape.com/tag/yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Bernard-Shaw"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "yourself",
+    "url": "https://quotes.toscrape.com/tag/yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Ralph-Waldo-Emerson"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "regrets",
+    "url": "https://quotes.toscrape.com/tag/regrets/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/life/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:inspirational",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "be-yourself",
+    "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Elie-Wiesel"
+  },
+  {
+    "type": "link",
+    "title": "activism",
+    "url": "https://quotes.toscrape.com/tag/activism/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "apathy",
+    "url": "https://quotes.toscrape.com/tag/apathy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "hate",
+    "url": "https://quotes.toscrape.com/tag/hate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "indifference",
+    "url": "https://quotes.toscrape.com/tag/indifference/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "opposite",
+    "url": "https://quotes.toscrape.com/tag/opposite/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "death",
+    "url": "https://quotes.toscrape.com/tag/death/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Eliot"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/C-S-Lewis"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "tea",
+    "url": "https://quotes.toscrape.com/tag/tea/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Martin-Luther-King-Jr"
+  },
+  {
+    "type": "link",
+    "title": "hope",
+    "url": "https://quotes.toscrape.com/tag/hope/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Helen-Keller"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:misattributed-eleanor-roosevelt",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-eleanor-roosevelt",
+    "url": "https://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Eleanor-Roosevelt"
+  },
+  {
+    "type": "link",
+    "title": "misattributed-eleanor-roosevelt",
+    "url": "https://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:inspirational",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "be-yourself",
+    "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Elie-Wiesel"
+  },
+  {
+    "type": "link",
+    "title": "activism",
+    "url": "https://quotes.toscrape.com/tag/activism/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "apathy",
+    "url": "https://quotes.toscrape.com/tag/apathy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "hate",
+    "url": "https://quotes.toscrape.com/tag/hate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "indifference",
+    "url": "https://quotes.toscrape.com/tag/indifference/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "opposite",
+    "url": "https://quotes.toscrape.com/tag/opposite/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/J-K-Rowling"
+  },
+  {
+    "type": "link",
+    "title": "death",
+    "url": "https://quotes.toscrape.com/tag/death/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/George-Eliot"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/C-S-Lewis"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "tea",
+    "url": "https://quotes.toscrape.com/tag/tea/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Martin-Luther-King-Jr"
+  },
+  {
+    "type": "link",
+    "title": "hope",
+    "url": "https://quotes.toscrape.com/tag/hope/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Helen-Keller"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "J.K. Rowling",
+    "description": "Born:July 31, 1965in Yate, South Gloucestershire, England, The United Kingdom",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:simile",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Steve-Martin"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "obvious",
+    "url": "https://quotes.toscrape.com/tag/obvious/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Stephenie-Meyer"
+  },
+  {
+    "type": "link",
+    "title": "drug",
+    "url": "https://quotes.toscrape.com/tag/drug/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "romance",
+    "url": "https://quotes.toscrape.com/tag/romance/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:value",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "value",
+    "url": "https://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "adulthood",
+    "url": "https://quotes.toscrape.com/tag/adulthood/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "success",
+    "url": "https://quotes.toscrape.com/tag/success/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "value",
+    "url": "https://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:failure",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Thomas-A-Edison"
+  },
+  {
+    "type": "link",
+    "title": "edison",
+    "url": "https://quotes.toscrape.com/tag/edison/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "failure",
+    "url": "https://quotes.toscrape.com/tag/failure/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "paraphrased",
+    "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:love",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Andre-Gide"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "heartbreak",
+    "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "sisters",
+    "url": "https://quotes.toscrape.com/tag/sisters/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Bob-Marley"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Elie-Wiesel"
+  },
+  {
+    "type": "link",
+    "title": "activism",
+    "url": "https://quotes.toscrape.com/tag/activism/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "apathy",
+    "url": "https://quotes.toscrape.com/tag/apathy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "hate",
+    "url": "https://quotes.toscrape.com/tag/hate/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "indifference",
+    "url": "https://quotes.toscrape.com/tag/indifference/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "opposite",
+    "url": "https://quotes.toscrape.com/tag/opposite/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "philosophy",
+    "url": "https://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-love",
+    "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "unhappy-marriage",
+    "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Pablo-Neruda"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "poetry",
+    "url": "https://quotes.toscrape.com/tag/poetry/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "girls",
+    "url": "https://quotes.toscrape.com/tag/girls/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Marilyn-Monroe"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/James-Baldwin"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Jane-Austen"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "Next\u2192",
+    "url": "https://quotes.toscrape.com/tag/love/page/2/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Eleanor Roosevelt",
+    "description": "Born:October 11, 1884in The United States",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:miracles",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:live",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Albert-Einstein"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "live",
+    "url": "https://quotes.toscrape.com/tag/live/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracle",
+    "url": "https://quotes.toscrape.com/tag/miracle/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "miracles",
+    "url": "https://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:lack-of-friendship",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-love",
+    "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "unhappy-marriage",
+    "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  },
+  {
+    "type": "section",
+    "title": "Quotes to Scrape",
+    "description": "Login",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Viewing tag:marriage",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "section",
+    "title": "Top Ten tags",
+    "description": "Quotes by:GoodReads.com",
+    "url": "https://quotes.toscrape.com"
+  },
+  {
+    "type": "link",
+    "title": "Quotes to Scrape",
+    "url": "https://quotes.toscrape.com/"
+  },
+  {
+    "type": "link",
+    "title": "Login",
+    "url": "https://quotes.toscrape.com/login"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "(about)",
+    "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-friendship",
+    "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "lack-of-love",
+    "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "marriage",
+    "url": "https://quotes.toscrape.com/tag/marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "unhappy-marriage",
+    "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "type": "link",
+    "title": "love",
+    "url": "https://quotes.toscrape.com/tag/love/"
+  },
+  {
+    "type": "link",
+    "title": "inspirational",
+    "url": "https://quotes.toscrape.com/tag/inspirational/"
+  },
+  {
+    "type": "link",
+    "title": "life",
+    "url": "https://quotes.toscrape.com/tag/life/"
+  },
+  {
+    "type": "link",
+    "title": "humor",
+    "url": "https://quotes.toscrape.com/tag/humor/"
+  },
+  {
+    "type": "link",
+    "title": "books",
+    "url": "https://quotes.toscrape.com/tag/books/"
+  },
+  {
+    "type": "link",
+    "title": "reading",
+    "url": "https://quotes.toscrape.com/tag/reading/"
+  },
+  {
+    "type": "link",
+    "title": "friendship",
+    "url": "https://quotes.toscrape.com/tag/friendship/"
+  },
+  {
+    "type": "link",
+    "title": "friends",
+    "url": "https://quotes.toscrape.com/tag/friends/"
+  },
+  {
+    "type": "link",
+    "title": "truth",
+    "url": "https://quotes.toscrape.com/tag/truth/"
+  },
+  {
+    "type": "link",
+    "title": "simile",
+    "url": "https://quotes.toscrape.com/tag/simile/"
+  },
+  {
+    "type": "link",
+    "title": "GoodReads.com",
+    "url": "https://www.goodreads.com/quotes"
+  },
+  {
+    "type": "link",
+    "title": "Zyte",
+    "url": "https://www.zyte.com"
+  }
+]
